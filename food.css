@@ -37,7 +37,7 @@ body {
     margin-top: 130px;
     position: relative;
     @media(min-width: 393px)and (max-width:900px){
-        height: 252px;
+        height: 200px;
     justify-content: space-evenly;
     background-size:cover;
     align-items: center;
